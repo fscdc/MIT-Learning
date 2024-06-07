@@ -1,5 +1,5 @@
 # MIT-Learning
-My learning record for \[TinyML and Efficient Deep Learning Computing\](https://hanlab.mit.edu/courses/2023-fall-65940)
+My learning record for [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940)
 
 
 ## Contribution 
